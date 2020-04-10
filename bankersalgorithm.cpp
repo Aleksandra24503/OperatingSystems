@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-    int nprocesses; // iloœæ procesów
-    int nresources; // iloœæ zasobów
+    int nprocesses; // iloÅ“Ã¦ procesÃ³w
+    int nresources; // iloÅ“Ã¦ zasobÃ³w
 
     cout << "Enter number of processes: ";
     cin  >> nprocesses;
