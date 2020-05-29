@@ -40,9 +40,9 @@ public:
 
     int rzadanie()
     {
-        if (rand() % 5 < 2) // z prawdopodobieñstwem 40% losujemy now¹ stronê
+        if (rand() % 5 < 2) // z prawdopodobieÅ„stwem 40% losujemy nowÅ¡ stronÄ™
             ostatnie_strony[it] = rand() % zbior_stron;
-// wszystko jest napisane w tresci zadania:)
+
         int odpowiedz = ostatnie_strony[it];
 
         /*it++;
